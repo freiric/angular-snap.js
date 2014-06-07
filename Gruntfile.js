@@ -118,7 +118,7 @@ module.exports = function(grunt) {
           '  ],',
           '  "dependencies": {',
           '    "angular": "~1.2.4",',
-          '    "snapjs": "latest"',
+          '    "snapjs": "git@github.com:freiric/Snap.js.git#develop"',
           '  }',
           '}'
         ].join('\n')
